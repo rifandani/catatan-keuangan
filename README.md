@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" />
+<img src="catatan-keuangan.png" align="middle" />
 
 # Catatan Keuangan
 
@@ -7,7 +7,7 @@
 
 ## Demo
 
-Demo aplikasi dapat diakses dengan link berikut: [Catatan Keuangan](https://.herokuapp.com/)
+Demo aplikasi dapat diakses dengan link berikut: [Catatan Keuangan](https://rifandani-catatan-keuangan.herokuapp.com/)
 
 ## Prerequisites
 
@@ -30,7 +30,7 @@ $ npm install
 ## Usage
 
 ```
-# ganti isi dari file config.env, lalu jalankan perintah berikut di root folder
+# ganti NODE_ENV ke development dari file config.env, lalu jalankan perintah berikut di root folder
 $ npm run dev
 ```
 
